@@ -1,0 +1,1 @@
+Este es un archivo de prueba para migración sin mirror
